@@ -114,3 +114,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IntelliJ
+.idea
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/checkstyle-idea.xml
+.idea/codeStyles/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-study.iml
+
